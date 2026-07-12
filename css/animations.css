@@ -1,0 +1,41 @@
+/* ==========================================
+   ANIMATIONS
+========================================== */
+
+.hidden{
+
+    opacity:0;
+
+    transform:translateY(40px);
+
+    transition:all .8s ease;
+
+}
+
+.show{
+
+    opacity:1;
+
+    transform:translateY(0);
+
+}
+
+.scroll-top{
+
+    transition:.3s;
+
+}
+
+.scroll-top:hover{
+
+    transform:translateY(-5px);
+
+}
+
+.nav-links a.active{
+
+    color:#2563EB;
+
+    font-weight:700;
+
+}
