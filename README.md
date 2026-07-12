@@ -1,1 +1,1 @@
-# Zyloriq OnePage Starter
+# Zyloriq
